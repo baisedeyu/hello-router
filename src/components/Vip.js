@@ -18,7 +18,7 @@ class Vip extends React.Component {
         const  {Prifile:Prifile1} =this.state
         return (
             <div>
-                Vip
+                Vip321231
                
                 {
                     Prifile1 !==null ? <Prifile1/> :  <button onClick={() => this.choosePrifile()}>aaaa</button>
